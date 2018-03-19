@@ -1,17 +1,13 @@
 # TEST
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In orci libero, ultricies ut laoreet non, rhoncus quis quam. Pellentesque aliquam massa tortor, volutpat consectetur neque malesuada ac. Cras id arcu lacus. Nulla porttitor quis odio in volutpat. Donec orci purus, ultrices at lectus tempor, iaculis commodo magna. Praesent a dignissim ipsum. Quisque consequat quis orci id facilisis. Sed justo augue, rhoncus quis augue at, auctor laoreet nunc. Suspendisse feugiat mi sed est malesuada, quis pulvinar leo lacinia. Vestibulum pulvinar magna ac ipsum convallis ultricies. Cras nec diam a libero commodo pellentesque. Etiam quis dolor non metus placerat sollicitudin. Integer facilisis sodales ligula, id commodo odio rutrum in. Vestibulum et lacus ac libero tempor porttitor in vel enim. Donec suscipit sagittis posuere. Vivamus massa ligula, luctus sed aliquam nec, vestibulum eget urna.
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+Morbi purus nunc, luctus sed tempus vel, efficitur ac sapien. Aliquam vestibulum faucibus auctor. Etiam suscipit eros quam, quis aliquet odio volutpat eu. Curabitur porta dictum faucibus. Aenean finibus nec purus eu porta. Phasellus quis sem tincidunt justo tristique consectetur. Aenean non hendrerit erat. Mauris mollis dolor a ullamcorper fermentum.
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+Morbi mattis nulla vehicula leo posuere, hendrerit vehicula metus ullamcorper. Fusce sem tellus, sollicitudin sit amet porttitor faucibus, scelerisque et nisl. Phasellus mollis vitae dui blandit blandit. Praesent ornare nulla neque, et mollis sem pharetra at. Cras vitae imperdiet elit. Curabitur efficitur nunc egestas elit porta egestas. Nam quis dui a justo faucibus commodo eu at tortor. Suspendisse aliquam leo eu orci viverra cursus. Morbi et purus porttitor, iaculis orci at, tempor enim. Aenean maximus laoreet felis in lobortis. Phasellus mi mauris, elementum id ullamcorper sit amet, condimentum sit amet est. Donec dictum justo et erat sodales elementum. Quisque sed nunc at quam tristique porta et et orci. Cras sed fringilla nulla.
 
----
+Vestibulum ut cursus velit, non auctor sapien. Aenean iaculis, neque id eleifend viverra, enim tellus lacinia mi, vel faucibus lacus erat eget mi. Praesent in ante sollicitudin, malesuada diam a, iaculis velit. Proin vulputate dui non sapien tristique sollicitudin. Proin tristique leo ac sem laoreet pellentesque. Sed a turpis nec tortor imperdiet iaculis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi feugiat ex sed augue placerat gravida. Phasellus a commodo ex. Duis sed volutpat mauris. Maecenas eu felis gravida arcu consectetur convallis vel id sapien. Suspendisse id consequat lorem. Mauris condimentum felis a odio dapibus pellentesque. In vulputate ac nibh nec ornare.
 
-## Notable Features
+Donec pretium commodo mauris. Maecenas odio felis, aliquet id finibus at, mollis ac diam. Nam fringilla leo in arcu efficitur convallis. Sed sagittis felis a rhoncus bibendum. Aenean porta nunc id lobortis tempor. Sed elementum finibus tellus eu facilisis. Maecenas neque elit, sagittis vitae facilisis eget, fringilla laoreet eros. 
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+![gif test](http://github.com/ijshahin/ijshahin.github.io/blob/master/images/gif_test.gif)
