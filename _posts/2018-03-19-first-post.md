@@ -10,4 +10,4 @@ Vestibulum ut cursus velit, non auctor sapien. Aenean iaculis, neque id eleifend
 
 Donec pretium commodo mauris. Maecenas odio felis, aliquet id finibus at, mollis ac diam. Nam fringilla leo in arcu efficitur convallis. Sed sagittis felis a rhoncus bibendum. Aenean porta nunc id lobortis tempor. Sed elementum finibus tellus eu facilisis. Maecenas neque elit, sagittis vitae facilisis eget, fringilla laoreet eros. 
 
-![gif test](http://github.com/ijshahin/ijshahin.github.io/blob/master/images/gif_test.gif)
+![alt](/images/gif_test.gif)
